@@ -20,6 +20,6 @@ A simple, automated Bash script for backing up directories with optional compres
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/backup-script.git
+   git clone https://github.com/roniman100/backup-task.git
    cd backup-script
 # backup-task
