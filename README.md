@@ -22,4 +22,7 @@ A simple, automated Bash script for backing up directories with optional compres
    ```bash
    git clone https://github.com/roniman100/backup-task.git
    cd backup-script
+2. **Usage**:
+   ```bash
+   ./backup.sh /path/to/source_folder
 # backup-task
